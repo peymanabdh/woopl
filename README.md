@@ -1,5 +1,5 @@
 # woopl
-#Using this plugin, you can link the content of WooCommerce products
+#Using this plugin, you can link the content words of WooCommerce products
 
 #insert on setting as =>
 
